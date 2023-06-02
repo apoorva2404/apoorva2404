@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 👋 Hello, fellow coders! Welcome to my GitHub profile.
 
-- 🌟 I am a passionate developer who loves to explore new technologies and solve complex problems through elegant and efficient code.
-- 🔭 I’m currently working on React, Java
+- 🌟 I am a passionate developer who loves to explore new technologies and solve complex problems through elegant and efficient code
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on Javascript, React and React Native projects
 - 🎯 Goals: My ultimate goal is to solve complex problems, and contributing to the open-source community
